@@ -1,5 +1,4 @@
 # Cleaner_script.py
-https://github.com/SHAIKABDULLA99/Cleaner_script.py.git
 import os
 import shutil
 import logging
